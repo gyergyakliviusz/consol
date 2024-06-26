@@ -1,0 +1,7 @@
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\dalverseny\dalverseny\obj\Debug\dalverseny.csproj.AssemblyReference.cache
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\dalverseny\dalverseny\obj\Debug\dalverseny.csproj.CoreCompileInputs.cache
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\dalverseny\dalverseny\bin\Debug\dalverseny.exe.config
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\dalverseny\dalverseny\bin\Debug\dalverseny.exe
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\dalverseny\dalverseny\bin\Debug\dalverseny.pdb
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\dalverseny\dalverseny\obj\Debug\dalverseny.exe
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\dalverseny\dalverseny\obj\Debug\dalverseny.pdb
