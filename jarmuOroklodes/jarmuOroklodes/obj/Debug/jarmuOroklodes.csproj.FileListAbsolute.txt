@@ -1,0 +1,7 @@
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\jarmuOroklodes\jarmuOroklodes\obj\Debug\jarmuOroklodes.csproj.AssemblyReference.cache
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\jarmuOroklodes\jarmuOroklodes\obj\Debug\jarmuOroklodes.csproj.CoreCompileInputs.cache
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\jarmuOroklodes\jarmuOroklodes\bin\Debug\jarmuOroklodes.exe.config
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\jarmuOroklodes\jarmuOroklodes\bin\Debug\jarmuOroklodes.exe
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\jarmuOroklodes\jarmuOroklodes\bin\Debug\jarmuOroklodes.pdb
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\jarmuOroklodes\jarmuOroklodes\obj\Debug\jarmuOroklodes.exe
+Z:\12_Kozgaz\DIAKOK\Gyergyák Líviusz\jarmuOroklodes\jarmuOroklodes\obj\Debug\jarmuOroklodes.pdb
