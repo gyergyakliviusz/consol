@@ -126,7 +126,8 @@ namespace jarmuOroklodes
     {
         static void Main(string[] args)
         {
-            new Vezerles();
+            Vezerles vezerles = new Vezerles();
+            vezerles.Indit();
 
             Console.ReadKey();
         }
